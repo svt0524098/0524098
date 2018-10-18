@@ -22,3 +22,11 @@
 ---------|-------
 使用者|有效率的辨識出使用者即時回饋的表情，並迅速評估是否有到過關標準
 系統開發者|蒐集使用者表情數據，以利建立資料庫並應用於其他領域
+
+## 使用案例圖
+![image](https://github.com/svt0524098/0524098/blob/master/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96.png)
+## 使用案例
+![image](https://github.com/svt0524098/0524098/blob/master/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B.png)
+## 活動圖
+![image](https://github.com/svt0524098/0524098/blob/master/%E6%B4%BB%E5%8B%95%E5%9C%96.png)
+      
