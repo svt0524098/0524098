@@ -24,24 +24,56 @@
 系統開發者|蒐集使用者表情數據，以利建立資料庫並應用於其他領域
 
 
-## 使用案例圖
+### 使用案例圖
 ![image](https://github.com/svt0524098/0524098/blob/master/image/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%961.png)
 
-### 填入基本資料
+## 填入基本資料
 
-## 使用案例
+### 使用案例
 ![image](https://github.com/svt0524098/0524098/blob/master/image/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B.png)
-## 活動圖(填入基本資料)
+### 活動圖(填入基本資料)
 ![image](https://github.com/svt0524098/0524098/blob/master/%E6%B4%BB%E5%8B%95%E5%9C%96(%E5%A1%AB%E5%85%A5%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99).png)
-## 類別圖
+### 類別圖
 ![image](https://github.com/svt0524098/0524098/blob/master/image/%E9%A1%9E%E5%88%A5%E5%9C%96(%E5%A1%AB%E5%85%A5%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99).png)
-## 系統循序圖
+### 系統循序圖
 ![image](https://github.com/svt0524098/0524098/blob/master/image/%E7%B3%BB%E7%B5%B1%E5%BE%AA%E5%BA%8F%E5%9C%96(%E5%A1%AB%E5%85%A5%E5%9F%BA%E6%9C%AC%E8%B3%87%E6%96%99).png)
 
-### 排名分數數據庫
+## 排名分數數據庫
 
-## 使用案例
-## 活動圖
-## 類別圖
-## 循序圖
-      
+### 使用案例
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B(%E6%8E%92%E5%90%8D%E5%88%86%E6%95%B8%E6%95%B8%E6%93%9A%E5%BA%AB).png)
+### 活動圖
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E6%B4%BB%E5%8B%95%E5%9C%96(%E6%8E%92%E5%90%8D%E5%88%86%E6%95%B8%E6%95%B8%E6%93%9A%E5%BA%AB).png)
+### 類別圖
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E9%A1%9E%E5%88%A5%E5%9C%96(%E6%8E%92%E5%90%8D%E5%88%86%E6%95%B8%E6%95%B8%E6%93%9A%E5%BA%AB).png)
+### 系統循序圖
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E7%B3%BB%E7%B5%B1%E5%BE%AA%E5%BA%8F%E5%9C%96(%E6%8E%92%E5%90%8D%E5%88%86%E6%95%B8%E6%95%B8%E6%93%9A%E5%BA%AB).png)
+
+## 表情辨識數據庫
+
+### 使用案例(對使用者而言)
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B(%E8%A1%A8%E6%83%85%E8%BE%A8%E8%AD%98%E6%95%B8%E6%93%9A%E5%BA%AB-%E4%BD%BF%E7%94%A8%E8%80%85).png)
+### 使用案例(對管理者而言)
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B(%E8%A1%A8%E6%83%85%E8%BE%A8%E8%AD%98%E6%95%B8%E6%93%9A%E5%BA%AB-%E7%AE%A1%E7%90%86%E8%80%85).png)
+### 類別圖
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E9%A1%9E%E5%88%A5%E5%9C%96(%E8%A1%A8%E6%83%85%E8%BE%A8%E8%AD%98%E6%95%B8%E6%93%9A%E5%BA%AB).png)
+
+
+## 音樂數據庫
+
+### 使用案例
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B(%E9%9F%B3%E6%A8%82%E6%95%B8%E6%93%9A%E5%BA%AB).png)
+### 類別圖
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E9%A1%9E%E5%88%A5%E5%9C%96(%E9%9F%B3%E6%A8%82%E6%95%B8%E6%93%9A%E5%BA%AB).png)
+
+
+## 一般設定
+
+### 使用案例
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B(%E4%B8%80%E8%88%AC%E8%A8%AD%E5%AE%9A).png)
+### 活動圖
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E6%B4%BB%E5%8B%95%E5%9C%96(%E4%B8%80%E8%88%AC%E8%A8%AD%E5%AE%9A).png)
+### 類別圖
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E9%A1%9E%E5%88%A5%E5%9C%96(%E4%B8%80%E8%88%AC%E8%A8%AD%E5%AE%9A).png)
+### 系統循序圖
+![image](https://github.com/svt0524098/0524098/blob/master/image/%E7%B3%BB%E7%B5%B1%E5%BE%AA%E5%BA%8F%E5%9C%96(%E4%B8%80%E8%88%AC%E8%A8%AD%E5%AE%9A).png)
